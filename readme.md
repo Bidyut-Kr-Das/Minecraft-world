@@ -2,7 +2,7 @@
 
 > Mods
 
-**Better f3**
+**Better F3**
 : <a href="https://modrinth.com/mod/betterf3/versions?l=fabric&c=release" style="color:aqua">Modrinth - BetterF3</a>
 
 **Clumps**
@@ -17,7 +17,7 @@
 **Indium**
 : <a href="https://modrinth.com/mod/indium/versions?l=fabric&c=release" style="color:aqua">Modrinth - Indium</a>
 
-**sodium**
+**Sodium**
 : <a href="https://modrinth.com/mod/sodium/versions?l=fabric&c=release" style="color:aqua">Modrinth - Sodium</a>
 
 **WorldEdit**
@@ -37,3 +37,36 @@
 
 **Xaeros World Map**
 : <a href="https://modrinth.com/mod/xaeros-world-map/versions?l=fabric" style="color:aqua">Modrinth - Xaeros World Map</a>
+
+<br/>
+
+> #### Resourcepacks
+
+1. [<img src="vanillaTweaks.png" height="80"/>](https://vanillatweaks.net/picker/resource-packs/) &larr; source
+
+### **Selected Packs**
+
+- MoreCrosshairs-4AngledDot
+-     DarkUI
+-     UnobtrusiveRain
+-     UnobtrusiveSnow
+-     UnobtrusiveParticles
+-     LowerFire
+-     AshlessCampfires
+-     DirectionalHoppers
+-     OreBorders
+-     SuspiciousSandGravelBorders
+-     BuddingAmethystBorders
+-     DifferentStems
+-     FullAgeAmethystMarker
+-     HungerPreview
+-     StickyPistonSides
+-     DirectionalDispensersDroppers
+-     RedstonePowerLevels
+-     CleanRedstoneDust
+
+2. [qrafty's Capitalise font](https://modrinth.com/resourcepack/qraftys-capitalized-font/versions)
+
+3. [Colourful containers GUI](https://modrinth.com/resourcepack/colourful-containers-gui/versions)
+
+4. 
