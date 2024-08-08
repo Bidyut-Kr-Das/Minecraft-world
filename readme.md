@@ -46,7 +46,7 @@
 
 ### **Selected Packs**
 
-- MoreCrosshairs-4AngledDot
+-     MoreCrosshairs-4AngledDot
 -     DarkUI
 -     UnobtrusiveRain
 -     UnobtrusiveSnow
