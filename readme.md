@@ -46,27 +46,43 @@
 
 ### **Selected Packs**
 
--     MoreCrosshairs-4AngledDot
--     DarkUI
--     UnobtrusiveRain
--     UnobtrusiveSnow
--     UnobtrusiveParticles
--     LowerFire
--     AshlessCampfires
--     DirectionalHoppers
--     OreBorders
--     SuspiciousSandGravelBorders
--     BuddingAmethystBorders
--     DifferentStems
--     FullAgeAmethystMarker
--     HungerPreview
--     StickyPistonSides
--     DirectionalDispensersDroppers
--     RedstonePowerLevels
--     CleanRedstoneDust
+-   [ ]  MoreCrosshairs-4AngledDot
+-   [ ]  DarkUI
+-   [ ]  UnobtrusiveRain
+-   [ ]  UnobtrusiveSnow
+-   [ ]  UnobtrusiveParticles
+-   [ ]  LowerFire
+-   [ ]  AshlessCampfires
+-   [ ]  DirectionalHoppers
+-   [ ]  OreBorders
+-   [ ]  SuspiciousSandGravelBorders
+-   [ ]  BuddingAmethystBorders
+-   [ ]  DifferentStems
+-   [ ]  FullAgeAmethystMarker
+-   [ ]  HungerPreview
+-   [ ]  StickyPistonSides
+-   [ ]  DirectionalDispensersDroppers
+-   [ ]  RedstonePowerLevels
+-   [ ]  CleanRedstoneDust
 
 2. [qrafty's Capitalise font](https://modrinth.com/resourcepack/qraftys-capitalized-font/versions)
 
 3. [Colourful containers GUI](https://modrinth.com/resourcepack/colourful-containers-gui/versions)
 
-4. 
+4. [Custom Totem](https://skinmc.net/totem)
+
+> Datapacks
+
+- [ ] Wandering Trader
+- [ ] Villager Work Station
+- [ ] More Mob Heads
+- [ ] Armor Statues
+- [ ] Anti Enderman Grief
+- [ ] timber
+- [ ] Fast Leaf Decay
+- [ ] durability ping
+
+> Crafting Tweaks
+
+- [ ] Universal Dyeing
+
