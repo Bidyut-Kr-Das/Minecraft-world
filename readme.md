@@ -65,11 +65,11 @@
 -   [ ]  RedstonePowerLevels
 -   [ ]  CleanRedstoneDust
 
-2. [qrafty's Capitalise font](https://modrinth.com/resourcepack/qraftys-capitalized-font/versions)
+2. [ ] [Qrafty's Capitalise font](https://modrinth.com/resourcepack/qraftys-capitalized-font/versions)
 
-3. [Colourful containers GUI](https://modrinth.com/resourcepack/colourful-containers-gui/versions)
+3. [ ] [Colourful containers GUI](https://modrinth.com/resourcepack/colourful-containers-gui/versions)
 
-4. [Custom Totem](https://skinmc.net/totem)
+4. [ ] [Custom Totem](https://skinmc.net/totem)
 
 > Datapacks
 
@@ -78,9 +78,9 @@
 - [ ] More Mob Heads
 - [ ] Armor Statues
 - [ ] Anti Enderman Grief
-- [ ] timber
+- [ ] Timber
 - [ ] Fast Leaf Decay
-- [ ] durability ping
+- [ ] Durability Ping
 
 > Crafting Tweaks
 
